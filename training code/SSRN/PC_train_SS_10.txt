@@ -1,0 +1,6 @@
+KAPPAs:[0.9517244343239425]
+OAs:[0.966102628354284]
+AAs:[0.9413304299557735]
+Mean of all elements in confusion matrix:[0.99893893 0.88761095 0.96699267 0.89616175 0.92791156 0.82506677
+ 0.99910072 0.97019052 1.        ]
+Standard deviation of all elements in confusion matrix[0. 0. 0. 0. 0. 0. 0. 0. 0.]

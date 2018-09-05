@@ -1,0 +1,8 @@
+KAPPAs:[0.8584903052275219]
+OAs:[0.8947067783701447]
+AAs:[0.8953154398913499]
+Total average Training time is :97.98989100000001
+Total average Testing time is:46.44570299999998
+Mean of all elements in confusion matrix:[0.66409845 0.98338764 0.97655334 0.88804665 0.86473755 0.95515434
+ 0.99066214 0.91235844 0.82284041]
+Standard deviation of all elements in confusion matrix[0. 0. 0. 0. 0. 0. 0. 0. 0.]
